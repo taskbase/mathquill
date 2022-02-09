@@ -430,6 +430,7 @@ LatexCmds['⁶'] = bind(LatexFragment, '^6');
 LatexCmds['⁷'] = bind(LatexFragment, '^7');
 LatexCmds['⁸'] = bind(LatexFragment, '^8');
 LatexCmds['⁹'] = bind(LatexFragment, '^9');
+LatexCmds['⁰'] = bind(LatexFragment, '^0');
 LatexCmds['¼'] = bind(LatexFragment, '\\frac14');
 LatexCmds['½'] = bind(LatexFragment, '\\frac12');
 LatexCmds['¾'] = bind(LatexFragment, '\\frac34');

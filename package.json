@@ -11,7 +11,7 @@
     "url": "https://github.com/mathquill/mathquill.git"
   },
   "files": [
-    "build/mathquill.{css,js,min.js,min.css}",
+    "build/mathquill.{css,js,min.js}",
     "build/fonts/Symbola.*",
     "quickstart.html"
   ],
